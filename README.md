@@ -181,3 +181,122 @@ latency reduction technology
 
 ![5g evolution](https://raw.githubusercontent.com/gabboraron/huawei_seeds_for_the_future/main/5gevolution.jpg)
 
+## Cloud computing
+https://www.huaweicloud.com/en-us/product/
+> examples: 
+> - cloud sincronization
+> - 5 advantages:
+>   - on demand self service
+>   - broad network access
+>  -  resource pooling: wenever a part is broken a good one can restore it
+>  - rapid elasticity
+> - measured service
+>
+> *Reason to use cloud computing is because of the strong scalability of Cloud Computing. Also the measured service. Measurement is the unit's unification. The service can measure what we need and set that resources what we need.*
+
+> **Cloud computing definition: resources can be quickly provisioned and released reflecting of characteristics and managing cloud computing. Generally cloud computing = internet + computing. **
+>
+> without computing and leaving the internet it cannot be admitted as true cloud computing 
+>
+> ![hitsory of internet](https://cloudcomputing521.files.wordpress.com/2017/05/the-history-of-the-cloud-1024x511.png)
+>
+> BT download
+>
+> cloud computing: 
+> - cloud 1.0: computing virtualization, hyper-v
+> - cloud 2.0: software definite integration: VMware, AWS - cloud based infrastructure
+> - cloud 3.0: cloud native, app redesign: Docker, CoreOS, CloudFoundry - cloud native applications
+>
+> cloud deployment models:
+> - public cloud:
+>   - private cloud
+>   - private clouds ensure private security
+> - transportation cloud
+> - financial cloud
+> - heltchare cloud
+>
+> ![cloud service models](https://res.cloudinary.com/practicaldev/image/fetch/s--ol7OnjXd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/flzshxgpfmu59dhor6mt.png)
+>
+> Paas: continued on underline resources: 
+> Iaas: CPU + memory+ storage
+> SaaS: all things managed by provider, example facial reognition
+
+**Fields related to cloud computing:**
+> - IoT: this is a result of the internet which connects all things. 
+>   - RFID: pass card
+>   - Sensors: stat information, ex: a smoke sensor that triggers fire, which opens the corridor.
+>  - Embedded systems: not only need identification but also get some data, and process or preprocess that data. We collect these data for analysis and find the information we need. Human-machine connection.
+>
+> 4 characteristics of big data :
+> - volume: the amount of data
+> - velocity: the speed at which data is generated
+> - variety: the different types of data
+> value: the value the can be extracted from data
+>
+> we send the data to a place unified to process
+> 1. first step is to collect the data 
+> 2. parts of AI:
+> 2.1 Big Data
+> 2.2 Algorithm
+> 2.3 Computing power
+> 2.4 Scenario
+> 
+> **Container:**
+> 
+> virtualization technology
+> Several containers can be created on each operating system, each of which is allocated only a subset of the computer's resources
+> - Docker: open-source application container engine. It allows developer to pack their app nad dependency pack into  a portable container, and later run them on any other Linux machine.
+> ![docker infographic](https://www.edureka.co/blog/wp-content/uploads/2016/10/Docker-Client-What-Is-Docker-Container-Edureka.png)
+> ![differences between containers and VM](https://livecodestream.dev/amp/post/2020-06-25-intro-to-docker-for-web-developers/docker_hu26f1f4e09abb26d0091452b6c8f18010_29453_700x0_resize_q75_box.jpg)
+> ![diff2](https://akfpartners.com//uploads/blog/VM_Image.PNG)
+> - open stack launched by NASA, open stack is a cloud computing OS
+>   - ![open stac components](https://4.bp.blogspot.com/-TAimP7yHqC4/UZ5KmCryEJI/AAAAAAAAGXY/JIBLhQ8D9R0/s1600/OpenStack_Components.png)
+> 
+> **Fog computing**:
+>
+> An extension of cloud computing services to the edge of the network to decrease latency and network congestion. Fog computing uses edge devices to carry out a substantial amount of computation, storage, and communication locally, instead of storing all data in a  cloud data centers.
+> ![fog computing](https://www.itprc.com/wp-content/uploads/2018/09/Fog-Computing-diagram.jpg)
+>
+> **Edge computing**
+>
+> ![edge computing](https://cdn-images-1.medium.com/max/1024/1*sOOdwM13CQHJbuuC6QhBgA.png)
+
+**Virtualization**
+- SPECvirt:
+  - virtualization performance of a single CPU
+- virtualization storage:
+  - SDS: consolidates the local storage used by computing nodes
+    - the I/O between local and network storage is optimized to reduce latency
+- network virtualization:
+   - virtual machine device queues or VMDQ
+   - SR-IOV
+Available functions :
+- reused resources
+- resource pool management
+- distributed power management
+- distributed resources scheduling (DRS)
+- storage DRS 
+- deploy multiple hosts on different clusters
+- VM's created manually or directly
+- Cloud's HA functions rescue a shut downed VM and restart it.
+- DPM: distributed power management
+
+## AI Advanced
+the learning g algorithm: is to train to catch labels nad targets, normally we used super 
+- supervised algorithms
+  - classification task
+  - regression task
+-unsupervised algorithms
+  - clustering task
+  - dimension deduction
+- semi-supervised
+ 
+typical machine learning process:
+ - break down the problem locating data
+- clean data
+- select features
+- Neuron: is the unit of neural network, consisting of a linear function and an activation function
+  - linear function: if the input is the n dimensional feature vector , the calculation formula is as follows: `f(X,W,b) = WX + b`
+- Frank- Rosenblatt perceptron: receiving multiple signals
+  - good for separating things, planes, hyperplanes
+  - single layer perceptron cannot solve XOR
