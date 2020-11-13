@@ -3,6 +3,7 @@
 ## Cultural programs:
 ### painting
 ![chinese rooster](https://i.pinimg.com/originals/24/8c/a6/248ca6d2621b62f9d7a37f728d363fe1.jpg)
+
 There is allways a host and a guest on a paint, a yan and a yin, here rooster is host, the writing is the guest
 
 ## HMS Core
@@ -90,13 +91,14 @@ latency reduction technology
 > **channel coding**
 > - in addition of useful bits redundand bits are added to protect useful infomration bits, andand improve reliability of infomration transmission
 > - 3GPP release 15 in 5G eMBB scenario the contorl channels use Polar codes, the traffic chanel use low density parity check (LDPC) having many advantages over the 4G Turbo coding tech
-> | -                         | Turbo         | LDPC   |
-> | ------------------------- |:-------------:| ------:|
-> | decoding performance      | 30%           | 90%    |
-> | decoing latency           | 1             |   1/3  |
-> | Chip size                 | 1             |    1/3 |
-> | Decoding power consumption| 1             |    1/3 |
-> 
+
+| -                         | Turbo         | LDPC   |
+| ------------------------- |:-------------:| ------:|
+| decoding performance      | 30%           | 90%    |
+| decoing latency           | 1             |   1/3  |
+| Chip size                 | 1             |    1/3 |
+| Decoding power consumption| 1             |    1/3 |
+ 
 > - polar technology results in a lower error rate in data transmission when compered with Turbo tech under the same signal noise
 > 
 > **Massive MIMO**
