@@ -302,3 +302,8 @@ typical machine learning process:
 - Frank- Rosenblatt perceptron: receiving multiple signals
   - good for separating things, planes, hyperplanes
   - single layer perceptron cannot solve XOR
+  
+  
+# SEEDS 2022
+- https://app.mural.co/t/mocaa2317/m/mocaa2317/1667721935112/a73fedafd3982c75826151b57da7e5ac28829f05?sender=d2e07b9c-2bef-4928-8a62-3b0d3fe263f3
+
