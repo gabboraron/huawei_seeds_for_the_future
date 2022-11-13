@@ -18,7 +18,77 @@ https://cntechpost.com/2020/02/24/huawei-launches-1-billion-plan-to-encourage-de
 - https://forum.huawei.com/enterprise/en/introduction-to-the-machine-learning-school/thread/568685-100429
 - https://en.wikipedia.org/wiki/Multilayer_perceptron
 
+## Digital Power 
+link: https://ilearningx.huawei.com/portal/courses/HuaweiX+PACDCSREN067/about
+
+> *use bits to manage wats*
+>
+> Digital power refers to harnessing digital technologies to produce energy more effectively, reduce wastage, and boost the use of renewables.
+>
+> Currently, including transportation, fossil fuels meet about 85% of our energy needs.
+>
+> Solar is now the cheapest source of energy.
+> 
+> The landmark Paris Accord is a global agreement to reduce and capture carbon emissions, and gradually switch to renewables.
+
+
+> Most grid power is traditionally produced at large facilities.  Green grids are decentralized and source energy from a wide variety of sources.  They can be built in isolated communities.
+>
+> By 2030, the International Renewable Energy Agency predicts that renewables will meet 42% of energy needs.
+>
+> ICT help to identify and reduce energy grid wastage. They also help to boost the productivity of traditional power plants.
+>
+> Solar tracker are AI-activated devices that tilt solar panels to an optimal angle. 
+
+
+> Because renewable power is intermittent, storage is essential in a decentralized, green power grid. 
+>
+> Besides batteries, energy can be stored in elevated reservoirs, in compressed air, in flywheels, and in hydrogen.
+>
+> While more expensive to acquire, lithium ion batteries occupy less space, charge faster, and need less maintenance.
+>
+> ICT help keep track of where stored energy is available.
+
+
+> Motor vehicles account for about 16% of CO2 emissions worldwide.  More and more countries are regulating CO2 vehicular emissions.
+>
+> Electric vehicles are the most energy-efficient types of vehicles.
+>
+> Electric vehicle batteries can be used as a supplementary source of power for homes or the grid.
+>
+> It’s becoming easier and easier to find places to charge an electric vehicle.   Their range can now reach 1000 kilometers without recharging. 
+
+
+> 5G is designed to carry much more data than 4G for a fraction of the energy consumption per bit.
+>
+> In recent years, the need for cooling site equipment has reduced.  It is now possible to place outdoor the radio gear and power system.
+>
+> Site power can now remotely be adjusted throughout the day depending on network load in the area. 
+>
+> Increasingly, sites make use of solar cells for some of their power needs. 
+
+
+> Data centers are called upon to store and process a rapidly increasing amount of data.
+>
+> It’s a major industry trends to power data centers with renewable industry whenever possible.
+> 
+> Data center operators prefer to locate their facilities in colder climates because cooling is energy-intensive.
+> 
+> In recent years, a lot of research has gone into building data centers that use less energy for cooling or for operation. 
+
+
+> A smart green grid will be made possible by more devices being networked, thus enabling the monitoring of how and when the devices are used.
+>
+> The smart grid will automatically monitor weather forecasts to determine when to use stored energy.
+>
+> Policies like allowing consumers to sell excess power to the grid will promote the use of renewables.
+> 
+> Connected batteries will charge when power is cheap or abundant, discharge when demand is high. 
+
+
 ## 5G basic
+
+### We look at what came before 5G, starting from analog 1G in the 1980
 - 3G https://en.wikipedia.org/wiki/3G
   - 70 min to download 80 gb at 14Mbps 
 - 4G 
@@ -282,6 +352,12 @@ Available functions :
 - VM's created manually or directly
 - Cloud's HA functions rescue a shut downed VM and restart it.
 - DPM: distributed power management
+
+## AI basics
+link: https://ilearningx.huawei.com/portal/courses/HuaweiX+PACDCSREN064/about
+
+- narrow AI: https://www.techopedia.com/definition/32874/narrow-artificial-intelligence-narrow-ai
+- LISP prog lang
 
 ## AI Advanced
 the learning g algorithm: is to train to catch labels nad targets, normally we used super 
